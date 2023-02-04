@@ -33,7 +33,7 @@ const filterByPrice = (price) => {
       />
       <ResultsList
         title='Big Spender'
-        results={filterByPrice('$$$')}
+        results={filterByPrice('$$$' || '$$$$')}
       />
     </View>
   );
