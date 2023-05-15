@@ -3,7 +3,9 @@
 FoodApp is a mobile application built with React Native and Expo that allows users to search for restaurants and view detailed information about them. The app uses the Yelp API to fetch restaurant data.
 
 <div align="center">
-  <img src="/assets/FoodApp_screen.png" alt="FoodApp" width="400" />
+  <img src="/assets/FoodApp_screen.png" alt="FoodApp" width="200" />
+  <img src="/assets/FoodApp_screen2.png" alt="FoodApp" width="200" />
+  <img src="/assets/FoodApp_screen3.png" alt="FoodApp" width="200" />
   <br />
 </div>
 
