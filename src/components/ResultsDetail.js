@@ -16,16 +16,25 @@ const ResultsDetail = ({ result }) => {
 
 const styles = StyleSheet.create({
   container: {
-    marginLeft: 15
+    marginLeft: 15,
+    backgroundColor: '#fff',
+    borderRadius: 4,
+    padding: 10,
+    shadowColor: '#000',
+    shadowOffset: { width: 1, height: 2 },
+    shadowOpacity: 0.2,
+    shadowRadius: 2,
+    elevation: 3,
   },
   image: {
     width: 250,
     height: 120,
     borderRadius: 4,
-    marginBottom: 5
+    marginBottom: 5,
   },
   name: {
     fontWeight: 'bold',
+    color: '#373737',
   }
 });
 
